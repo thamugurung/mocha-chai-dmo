@@ -1,0 +1,23 @@
+{
+  "name": "mocha-chai-dmo",
+  "version": "1.0.0",
+  "description": "A demo for chai mocha testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha chai"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thamugurung/mocha-chai-dmo.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "T Staff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thamugurung/mocha-chai-dmo/issues"
+  },
+  "homepage": "https://github.com/thamugurung/mocha-chai-dmo#readme"
+}
