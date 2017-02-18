@@ -18,3 +18,9 @@ describe('addition check', function(){
 		expect(2+1).to.equal(3);
 	})
 })
+
+describe('Substraction Check', function(){
+	it('check substraction of two nubers', function(){
+		expect(4-1).to.equal(3);
+	})
+})
