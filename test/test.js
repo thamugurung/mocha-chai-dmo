@@ -18,3 +18,9 @@ describe('addition check', function(){
 		expect(2+1).to.equal(3);
 	})
 })
+
+describe('addition check', function(){
+	it('check multiplication of two numbers', function(){
+		expect(2*1).to.equal(2);
+	})
+})
